@@ -41,15 +41,15 @@ const validTennis = [
 
 const tennis = {
     loginUrl: 'https://moncompte.paris.fr/moncompte/jsp/site/Portal.jsp?page=myluteceusergu&view=createAccount#auth',
-    username: 'xxxxxx@gmail.com',
-    password: 'xxxxxxxxxxxx',
+    username: 'thomas.fredj@hotmail.fr',
+    password: 'KerLap54',
     tennisSearchUrl: 'https://tennis.paris.fr/tennis/jsp/site/Portal.jsp?page=recherche&view=recherche_creneau',
-    chosenTennis: 'Jandelle',
-    hourRange: '18-19', // Au fomat HEURE-HEURE. Le bot selectionnera le premier dispo
+    chosenTennis: 'Georges Carpentier',
+    hourRange: '19-20', // Au fomat HEURE-HEURE. Le bot selectionnera le premier dispo
     terrain: "COUVERT", // COUVERT ou DÉCOUVERT
     mate: {
-        name: "Dupont",
-        firstname: "Jean"
+        name: "Fredj",
+        firstname: "Thomas"
     }
 }
 
